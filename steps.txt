@@ -21,7 +21,7 @@ Arquivo app.json:
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "scheme": "Silvinha-Health-App",
-    "splash": {
+    "splash": {a
 
 npx expo start --localhost --android --clear
 
